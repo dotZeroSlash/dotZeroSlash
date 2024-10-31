@@ -60,9 +60,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THROATPIES&layout=compact&theme=dark" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUMSHOT&layout=compact&theme=dark" alt="top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=THROATPIES&show_icons=true&theme=dark" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YUMSHOT&show_icons=true&theme=dark" alt="github stats" />
+
 </div>
 
 ### 
