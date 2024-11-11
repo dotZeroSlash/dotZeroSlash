@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a full-stack developer based in the Pacific Northwest, US. Even with over a decade of experience, I still joke about being "just a hobbyist."<br><br>
+<p align="left">I'm a full-stack developer based in the Pacific Northwest, US. Even with over a decade of experience, I still joke about being "just a hobbyist..."<br><br>
 - 🔭 I'm currently diving into DevOps and exploring the world of Scala.<br>
 - 🌱 My main interests are backend technologies, AI, and contributing to FOSS projects.<br>
 - 📂 I'm tidying up old projects, deciding which to expand and which to archive.<br>
