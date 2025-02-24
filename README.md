@@ -1,11 +1,6 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1293281302258126954/1300869031263338556/image.png?ex=67226832&is=672116b2&hm=c8b125863718d5267447ddbfadf1e41790dfe0fffd67cd38e8e3f07ee8464afd&" style="border-radius: 50%;" />
-</div>
-
-###
 
 <div align="center">
-  <a href="https://www.twitch.tv/yumshotrs">
+  <a href="https://www.twitch.tv/dotzeroslash">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
@@ -59,8 +54,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THROATPIES&layout=compact&theme=dark" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=THROATPIES&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotZeroSlash&layout=compact&theme=dark" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dotZeroSlash&show_icons=true&theme=dark" alt="github stats" />
 
 </div>
 
